@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Josh</h1>
-<h3 align="center">A dedicated engineer who uses tech for good</h3>
+<h3 align="center">I'm always learning new things and applying tech to benefit the lives of others</h3>
 
 - 🏥 I’m currently working at [Well Pharmacy](https://github.com/welldigital)
 
-- 🌱 I’m currently learning **Open CV and AWS**
+- 🌱 I’m currently learning **Open CV and AWS (amongst a thousand other things!)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
