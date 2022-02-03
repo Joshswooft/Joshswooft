@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Josh</h1>
 <h3 align="center">Constantly learning and looking to use tech to help others</h3>
-
-- 🏥 Working at [Well Pharmacy](https://github.com/welldigital)
  
 
 <h3 align="left">Connect with me:</h3>
